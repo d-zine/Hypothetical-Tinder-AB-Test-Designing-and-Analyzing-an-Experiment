@@ -10,11 +10,11 @@ Tinder Plus is a subscription worth $5 / month that rewinds, removes ads, and gi
 
 <b>Evaluation Metrics</b>
 
-Short term Metric: Conversion Rate (calculated after the free trial ends)
+<i>Short term Metric</i>: Conversion Rate (calculated after the free trial ends)
 
 Conversion rate=# of subscribers/# served the ad
 
-Long Term Metrics: Retention rate or 12-month Customer value
+<i>Long Term Metrics</i>: Retention rate or 12-month Customer value
 
 CLV = $5/month x Number of Subscribers x Avg. Subscriber Lifetime in months
 
